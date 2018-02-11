@@ -44,6 +44,5 @@ namespace CheeseMVC.Controllers
             ViewBag.title = "Cheese Detail";
             return View();
         }
-
     }
 }
